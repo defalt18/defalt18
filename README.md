@@ -10,7 +10,9 @@ I am a B.Tech Student from DAIICT. Currently looking for web development opportu
 - 👯 I’m looking to collaborate on ReactJS
 - 🤔 I’m looking for help with Computer Vision
 - 💬 Ask me about Full Stack Development, Firebase
-- 📫 Reach me @ LinkedIn : https://www.linkedin.com/in/kushagra-pathak-2510/
+- 📫 Reach me @  
+LinkedIn : https://www.linkedin.com/in/kushagra-pathak-2510/ <br>
+Email : work.kushagrapathak@gmail.com
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
