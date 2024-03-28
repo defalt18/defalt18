@@ -12,7 +12,7 @@ I am a full time software developer (frontend heavy) working with Oracle. Curren
 - 💬 Ask me about Full Stack Development, Firebase
 - 📫 Reach me @  
 LinkedIn : https://www.linkedin.com/in/kushagra-pathak-2510/ <br>
-Email : work.kushagrapathak@gmail.com
+Email : work.kushagrapathak@gmail.com <br>
 My-Space : https://kushagra-dev-space.vercel.app/
 <!--
 - 😄 Pronouns: ...
