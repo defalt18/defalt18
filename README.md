@@ -3,7 +3,7 @@
 <!--
 **defalt18/defalt18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a full time software developer (frontend heavy) working with Oracle. Currently looking for web development opportunities. Professional experience with ReactJS and React Native.
+I am a full time software developer (frontend heavy) working with Microsoft. Professional experience with ReactJS and React Native.
 
 - 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently learning GatsbyJS
